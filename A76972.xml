@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of severall overthrows given to the rebells, by Colonell Crayford, Colonell Gibson; and Captain Greams. The relation being sent from Dublin in two letters, by the last post, Septem. 13. 1642. Together with the names of the chief of the rebels that were slain at the said overthrow.</title>
+            <author>Bacon, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76972</idno>
+            <idno type="STC">Wing B347</idno>
+            <idno type="STC">Thomason E118_42</idno>
+            <idno type="STC">ESTC R12586</idno>
+            <idno type="EEBO-CITATION">99859303</idno>
+            <idno type="PROQUEST">99859303</idno>
+            <idno type="VID">156115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156115)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of severall overthrows given to the rebells, by Colonell Crayford, Colonell Gibson; and Captain Greams. The relation being sent from Dublin in two letters, by the last post, Septem. 13. 1642. Together with the names of the chief of the rebels that were slain at the said overthrow.</title>
+                  <author>Bacon, John, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sept. 26. London, Printed for Ioseph Hunscot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Bacon.</note>
+                  <note>Copy from CSmH (UMI reel 2165) cropped at head with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crawford, Lawrence, 1611-1645 --  Early works to 1800.</term>
+               <term>Gibson, --  Colonel --  Early works to 1800.</term>
+               <term>Greams, --  Captain --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156115:1" rendition="simple:additions"/>
+            <p>A True RELATION Of ſeverall OVER THROWS Given to the Rebells, BY Colonell Crayford, Colonell Gibſon; AND Captain Greams. The Relation being ſent from <hi>Dublin</hi> in two Letters, by the laſt Poſt, Septem. 13. 1642. Together with the Names of the chief of the Rebels that were ſlain at the ſaid Overthrow.</p>
+            <p>
+               <hi>Sept.</hi> 26. <hi>London,</hi> Printed for <hi>Ioſeph Hunſcot.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:156115:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:156115:2"/>
+            <head>Dublin, Septemb. <hi>13. 1642.</hi>
+            </head>
+            <opener>
+               <salute>Sir.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have not written unto you theſe two laſt Poſts, for that there hath been nothing done worth remem<g ref="char:EOLhyphen"/>bring, or acquainting you withall. The Earl of <hi>Ormond</hi> hath been ſick of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, and is now ſomwhat well amen<g ref="char:EOLhyphen"/>ded, but doth not ſtir out of his cham<g ref="char:EOLhyphen"/>ber: This laſt week Col. <hi>Craford</hi> hath been in the County of <hi>Wicklow,</hi> relie<g ref="char:EOLhyphen"/>ved the black Caſtle of <hi>Wicklow,</hi> which was in great diſtreſſe, ſaw multitudes of the Rebells on the hills, but none of them came neer him; he went up to the hills, and charged them with his horſe, but they would not abide him, but fled, and would not fight: It muſt be ſtarving that muſt end the War, and therefore to begin that way, he hath fired all the Beer and Rye, which in this Country was already in Stack, and ſo returned.</p>
+            <p>About the beginning of the laſt week, the Garriſons of <hi>Athie</hi> and <hi>Maryburrough,</hi> with the aſſiſtance of Captain <hi>George Greames,</hi> made out 400 foot, and 80 horſe for to relieve the Burres in <hi>Oſſory,</hi> an houſe belonging to the Duke of <hi>Bucking<g ref="char:EOLhyphen"/>ham,</hi> in which were ſeverall Engliſh in great diſtreſſe; it was no ſooner reſolved on, but two of our own ſouldiers, being of that County, Iriſh, fled, and gave them notice of our com<g ref="char:EOLhyphen"/>ing; the Lord of upper <hi>Oſſory</hi> did prepare himſelf to give
+<pb n="4" facs="tcp:156115:3"/>them reſiſtance, with above 800 foot, and 60 or 80 horſe, and on a ſtrait, on a Bogſide, ſet on our men; they received them with great reſolution, and 40 of Captain <hi>Greames</hi> Troop charged and routed them, with the aſſiſtance of Muskettiers which were ſent to clear the paſſage, yet they ſtood again and in the ſight our foot killed about 80 of theirs on the place; their horſe retreated farther off, on the Bogge ſide, made a ſtand; which being perceived by Cornet <hi>Wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>row,</hi> Cornet to Sir <hi>Adam Loftus,</hi> he rid up to them, and ſeeing them ſtand ſo confidently, at firſt conceived them to be ſome part of our horſe; but coming more neer, and diſcovering them to be enemies. taking the advantage of the place, charged them home; they had the Bog at their back, and could not flee<g ref="char:punc">▪</g> our horſe ſo beſtirred themſelves, that they ſlew 40 of the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beſt Free-holders, and amongſt them a brother of the Lord of upper <hi>Oſſory</hi> was ſlain, and <hi>Florence Fitz-Patrick<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> they ſay is dangerouſly wounded: this done, they marched quietly thorow the Country; the Free-holders being ſlain the poor made no reſiſtance; and in my opinion, if there were ſome courſe taken to take in the poor, their multitudes would quickly be leſſened, and the poor might be ſerviceable for a while, and might be well ordered afterwards, when things are better ſetled with you.</p>
+            <p>We are at this preſent making a great Trench about this City, to keep of the enemy for adventuring to fire us in the Winter. There is this morning a meeting of the Proteſtants of the beſt quality, of this City, on a Commiſſion directed to them, to ſearch the houſes of all ſuch as are Papiſts, or married to Papiſts, for Arms and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and to take it from them and deliver it <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as likewiſe to en<g ref="char:EOLhyphen"/>quire what ſtrangers or others are come to dwell in the Ci<g ref="char:EOLhyphen"/>tie or Suburbs ſince the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and twentieth of <hi>October</hi> laſt, and what Citizens have ſince that time gone out of the Cit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and returned againe, to enquire how many of the Town Pa<g ref="char:EOLhyphen"/>piſts are in the Army, and to conſider of the plucking down of thatched houſes in or neer the Citie, with ſome other
+<pb n="5" facs="tcp:156115:3"/>particulars which for the p eſent I remember not: this Com<g ref="char:EOLhyphen"/>miſſion is to be put in execution weekly, and the Commiſſio<g ref="char:EOLhyphen"/>ners have power to examine on Oath, I believe it will be due<g ref="char:EOLhyphen"/>ly executed.</p>
+            <p>So, praying God to compoſe the diſorders with you, as the onely probable way to make us happy, I reſt</p>
+            <closer>
+               <signed>Your aſſured loving friend, <hi>J. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>The Names of the chief of the <hi>Rebels</hi> that were ſlain.</head>
+            <p>
+               <hi>DErmot mac Teage fitz-Patrick,</hi> unkle to the Lord of upper <hi>Oſſory,</hi> and <hi>Dermot Oge</hi> his ſon, Cap<g ref="char:EOLhyphen"/>tain <hi>Lager,</hi> a <hi>Low Country</hi> Souldier, and <hi>Burk</hi> his Lievtenant; Captain <hi>Dermot mac a Boy; Patrick Ca<g ref="char:EOLhyphen"/>ſhin,</hi> of the <hi>Croſſe; Bryan Conner,</hi> heir to <hi>Patrick Con<g ref="char:EOLhyphen"/>ner;</hi> Capt. <hi>Iohn Caſhin, and Morgan Caſhin,</hi> Gent. <hi>Will. Ocaroll,</hi> a chief Free-holder; <hi>Donnogh fitz Pa<g ref="char:EOLhyphen"/>trick,</hi> Gent. Alſo a younger ſon of <hi>Brian mac William;</hi> beſides Lievtenant <hi>Bryan O More,</hi> priſoner at the <hi>Burrus,</hi> for the relief of which he was to be ranſomed; moreover were ſlain <hi>Loughlin,</hi> and <hi>Pa<g ref="char:EOLhyphen"/>trick Caſtigan,</hi> Frier <hi>Iohn Caſtigan; Patrick Hore,</hi> prieſt, <hi>Matthew Dulany,</hi> a ſub-Sheriff; <hi>Iohn Tebin,</hi> a Merchant of <hi>Kilkenny,</hi> beſides Serjeant <hi>Bryan Burk,</hi> now priſo<g ref="char:EOLhyphen"/>ner at <hi>Athie.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:156115:4"/>
+            <head>From D<g ref="char:V">Ʋ</g>BLIN, this thirteenth of <hi>SEPTEMBER, 1642.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt loving and kind friend good<g ref="char:EOLhyphen"/>man <hi>Randall,</hi> my love remembe<g ref="char:EOLhyphen"/>red unto you and to my mother and to my wife, this in brief, I recieved your Letter from <hi>Robert Willſon</hi> which you ſent me, but at that time I lay very ſick, for I came ſick out of the Army.</p>
+            <p>As for news, we were out the laſt bout two and twenty dayes, we were but ſeventeen Col<g ref="char:EOLhyphen"/>lours at the firſt, but afterwards there came nine Collours more to us, five from <hi>Dublin,</hi> and four with my Lord <hi>Moore</hi> from <hi>Tredagh,</hi> then we marched for Caſtle <hi>Suddane,</hi> where we made a
+<pb n="7" facs="tcp:156115:4"/>Hundred ſhot with our great Ordnance and four, before we could take in the Caſtle, but we killed three hundred of the rogues and more, then we marched for the Caſtle of <hi>Newſtowne,</hi> and the rogues run away, there we left a Garriſon and likewiſe at <hi>Coakſtoane,</hi> theſe Caſtles are neer <hi>Dundalke</hi> within ſix or eight miles, then we mar<g ref="char:EOLhyphen"/>ched for the <hi>Nubbar,</hi> neer the <hi>Navan</hi> and <hi>Kells</hi> where there lay an Army of the rogues horſe and foot, but we could not reach thither that night, but we lay a mile and a halfe ſhort of the <hi>Nubbar,</hi> the next morning ſent our forlorn Troop of horſe and foot out, and the rogues were all run away, then we returned home for <hi>Dublin.</hi> We are going to intrench <hi>Dublin</hi> round about, they are gone forwards with the worke allready: The rogues hath burned <hi>Reamines,</hi> two miles from <hi>Dublin,</hi> as fine a houſe as any was in <hi>Ireland;</hi> There is five hundred Muſquetiers gone for the Caſtle of <hi>Wicklow,</hi> Colonell <hi>Crayford</hi> is gone Comman<g ref="char:EOLhyphen"/>der of them, they tooke it from the Engliſh, but as yet they are not returned; But when we were at Caſtle <hi>Suddane,</hi> Colonell <hi>Gibſon</hi> my Colonell Commanded in chief. Remember my love to my Children, Friends, and Neighbours, and to all my Noble friends at Sir <hi>Iohns</hi> in generall, giving them thanks for their loves: And as for my coming home God knoweth when; but if God lend me life and ſend us mony, I will be with you at Chriſtmas or elſe neer Shroue-tide.
+<pb n="8" facs="tcp:156115:5"/>I never recieved any means ſince I came in the Country, but one Months means, looke not for any Mony till I come my ſelf, for if I had any, I know not who to ſend it by with truſt; And thus I commit you to God.</p>
+            <closer>
+               <signed>Your ever-loving Husband, till death, <hi>JOHN BACON.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
